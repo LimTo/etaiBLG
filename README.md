@@ -18,7 +18,7 @@ uih=ueh 如劃
 
 iuⁿ=ioⁿ 海滄口音，如羊
 
-iŋ=eŋ 海滄口音，如情
+ing=eng 海滄口音，如情
 
 eⁿ=iⁿ 如病
 
@@ -28,7 +28,7 @@ ue/e 如過、雞
 
 uaiⁿ=uiⁿ 如關
 
-懸kuai?=懸kuan
+懸kuaiⁿ=懸kuan
 
 mue=mui 如每
 
