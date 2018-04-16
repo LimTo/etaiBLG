@@ -1,11 +1,11 @@
----		
+---
 name: banlam_etai		
-version: "1.6"		
+version: "2018.04.16"		
 sort: by_weight		
 use_preset_vocabulary: true		
 max_phrase_length: 7		
 min_phrase_weight: 100		
-...		
+...
 ##	a/ah	
 啊	a0	
 啊	ah0	
