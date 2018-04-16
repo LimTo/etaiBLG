@@ -1,6 +1,6 @@
 ---
 name: banlam_etai		
-version: "2018.04.16"		
+version: "2018.04.16.2300"		
 sort: by_weight		
 use_preset_vocabulary: true		
 max_phrase_length: 7		
