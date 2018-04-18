@@ -493,7 +493,7 @@ min_phrase_weight: 100
 家居	ka kI	100000
 家園	ka uan	100000
 家產	ka san	100000
-家丁	ka ting	100000
+家丁	ka ting
 家書	ka sI	100000
 家門不幸	ka bun put hing	100000
 嘉賓	ka pin	100000
@@ -532,7 +532,7 @@ min_phrase_weight: 100
 咖啡	ko pi	100000
 袈紗	ka se	100000
 假設	ka siat	100000
-假定	ka ting	100000
+假定	ka ting
 假借	ka tsia	100000
 假使	ka su	100000
 假若	ka na	100000
@@ -10983,6 +10983,7 @@ min_phrase_weight: 100
 加工	ke kang	100000
 加額	ke giah	100000
 家庭	ke ting	100000
+家庭	ka ting
 家伙	ke her	100000
 家後	ke au	100000
 家私	ke si	100000
@@ -21120,12 +21121,12 @@ min_phrase_weight: 100
 過來	ker lai	100000
 過量	ker liong	100000
 過剩	ker sing	100000
-過程	ker thing	100000
-過程	ker ting	100000
+過程	ker thing
+過程	ker ting
 過板	ker pan	100000
 過熥	ker thng	100000
 過餾	ker liu	100000
-過澄	ker ting	100000
+過澄	ker ting
 過綢	ker thng	100000
 過滯	ker te	100000
 過番	ker huan	100000
