@@ -4280,7 +4280,7 @@ min_phrase_weight: 100
 芒	bang5	
 氓	bang5	
 網	bang6	
-望	bang7	
+望	bang7
 夢	bang7	
 目	bak8	
 木	bak8	
@@ -8602,7 +8602,7 @@ min_phrase_weight: 100
 傷本	siong pun	100000
 傷重	siong tiong	100000
 傷財	siong tsai	100000
-傷情	siong tsing	100000
+傷情	siong tsing
 傷害	siong hai	100000
 傷寒	siong han	100000
 傷風	siong hong	100000
@@ -8656,8 +8656,8 @@ min_phrase_weight: 100
 常在	siong tsai	100000
 詳解	siong kai	100000
 詳細	siong se	100000
-詳情	siong tsing	100000
-詳盡	siong tsin	100000
+詳情	siong tsing
+詳盡	siong tsin
 祥雲	siong hun	100000
 祥瑞	siong sui	100000
 祥和	siong ho	100000
@@ -8708,8 +8708,8 @@ min_phrase_weight: 100
 相當	siong tong	100000
 相當於	siong tong I	100000
 相互	siong hoo	100000
-相靜靜	siong tsing tsing	100000
-象徵	siong tsing	100000
+相靜靜	siong tsing tsing
+象徵	siong tsing
 象形	siong hing	100000
 上蓋	siong kai	100000
 上游	siong iu	100000
@@ -8724,8 +8724,8 @@ min_phrase_weight: 100
 上尾	siong ber	100000
 上頭先	siong thau sing	100000
 上後壁	siong au piah	100000
-上情	siong tsing	100000
-上進	siong tsin	100000
+上情	siong tsing
+上進	siong tsin
 上少	siong tsio	100000
 上下	siong ha	100000
 上濟	siong tsere	100000
@@ -24587,7 +24587,7 @@ min_phrase_weight: 100
 濛	bong5	
 朦	bong5	
 矇	bong5	
-望	bong7	
+望	bong7
 夢	bong7	
 忘	bong7	
 妄	bong7	
