@@ -3084,7 +3084,7 @@ min_phrase_weight: 100
 探看	tham khuaⁿ	100000
 探聽	tham thiaⁿ	100000
 探頭	tham thau	100000
-探望	tham bong	100000
+探望	tham bong
 探究	tham kiu	100000
 探索	tham soh	100000
 探討	tham tho	100000
@@ -3786,7 +3786,7 @@ min_phrase_weight: 100
 別塊	pat tE	100000
 攀登	phan ting	100000
 攀岩		100000
-盼望	phan bong	100000
+盼望	phan bong
 挽面	ban bin	100000
 挽花	ban hue	100000
 挽草	ban tshau	100000
@@ -4561,7 +4561,7 @@ min_phrase_weight: 100
 網址	bong tsi	100000
 網球	bong kiu	100000
 網盤	bong puaⁿ	100000
-望月	bang gerh	100000
+望月	bang gerh
 夢中	bang tiong	100000
 夢醒	bang tsheⁿ	100000
 夢見	bang kiⁿ	100000
@@ -5259,13 +5259,13 @@ min_phrase_weight: 100
 掠著	liah tioh	100000
 掠牢	liah tiau	100000
 掠牢牢	liah tiau tiau	100000
-寄批	kia phere	100000
-寄付	kia hu	100000
-寄託	kia thok	100000
-寄宿	kia sok	100000
-寄話	kia ue	100000
-寄望	kia bang	100000
-崎仔	kia a	100000
+寄批	kia phere
+寄付	kia hu
+寄託	kia thok
+寄宿	kia sok
+寄話	kia ue
+寄望	kia bang
+崎仔	kia a
 騎馬		100000
 騎馬瑯		100000
 騎車		100000
@@ -5424,8 +5424,8 @@ min_phrase_weight: 100
 捙輾斗		100000
 奢侈	tshia tshi	100000
 奢侈品	tshia tshi phin	100000
-奢華	tshia hua	100000
-奢望	tshia bang	100000
+奢華	tshia hua
+奢望	tshia bang
 赤肉	tshiah bah	100000
 赤色	tshiah sik	100000
 赤塗	tshiah thoo	100000
@@ -7453,7 +7453,7 @@ min_phrase_weight: 100
 展會	tian hue	100000
 展台	tian tai	100000
 展臺	tian tai	100000
-展望	tian bong	100000
+展望	tian bong
 展牙	tian ge	100000
 展開	tian khui	100000
 展翼	tian sit	100000
@@ -8007,10 +8007,10 @@ min_phrase_weight: 100
 仙女	sian lu	100000
 仙居	sian kI	100000
 仙丹	sian tan	100000
-仙人掌	sian jin tsiong	100000
+仙人掌	sian jin tsiong
 先人	sian jin	100000
-先斬後奏	sian tsam hoo tsau	100000
-先斬後奏	sian tsam hio tsau	100000
+先斬後奏	sian tsam hoo tsau
+先斬後奏	sian tsam hio tsau
 先進	sian tsin	100000
 先祖	sian tsoo	100000
 先賢	sian hian	100000
@@ -8490,7 +8490,7 @@ min_phrase_weight: 100
 劇烈	kiok liat	100000
 劇院	kiok iⁿ	100000
 劇團	kiok thuan	100000
-仰望	giong bong	100000
+仰望	giong bong
 仰慕	giong boo	100000
 香港跤	hiong kang kha	100000
 香料	hiong liau	100000
@@ -10156,7 +10156,7 @@ min_phrase_weight: 100
 關注	kuan tsu	100000
 官官相護	kuan kuan siong hoo	100000
 觀察	kuan tshat	100000
-觀望	kuan bong	100000
+觀望	kuan bong
 觀音	kuan im	100000
 觀音媽	kuan im ma	100000
 觀測	kuan tshik	100000
@@ -10327,7 +10327,7 @@ min_phrase_weight: 100
 頑固	guan koo	100000
 頑童	guan tong	100000
 願意	guan i	100000
-願望	guan bong	100000
+願望	guan bong
 月老	guat noo	100000
 月夜	guat ia	100000
 月宮	guat kiong	100000
@@ -10606,7 +10606,7 @@ min_phrase_weight: 100
 全職	tsuan tsit	100000
 撰寫	tsuan sia	100000
 絕對	tsuat tui	100000
-絕望	tsuat bong	100000
+絕望	tsuat bong
 絕妙	tsuat biau	100000
 絕妙	tsuat miau	100000
 絕情	tsuat tsing	100000
@@ -13093,7 +13093,7 @@ min_phrase_weight: 100
 期間	ki kan	100000
 期限	ki han	100000
 期待	ki thai	100000
-期望	ki bong	100000
+期望	ki bong
 期刊	ki khan	100000
 期貨	ki her	100000
 奇怪	ki kuai	100000
@@ -13114,7 +13114,7 @@ min_phrase_weight: 100
 祈禱	ki to	100000
 祈求	ki kiu	100000
 祈福	ki hok	100000
-祈望	ki bong	100000
+祈望	ki bong
 祈雨	ki hoo	100000
 歧視	ki si	100000
 歧義	ki gi	100000
@@ -14800,8 +14800,8 @@ min_phrase_weight: 100
 印象	in siong	100000
 一生	it sing	100000
 一味	it bi	100000
-一網打盡	it bong taⁿ tsin	100000
-一望無際	it bong bu tse	100000
+一網打盡	it bong taⁿ tsin
+一望無際	it bong bu tse
 一無所有	it bu soo iu	100000
 一模一樣	it boo it iuⁿ	100000
 一竅不通	it khiau put thong	100000
@@ -14928,7 +14928,7 @@ min_phrase_weight: 100
 民衆	bin tsiong	100000
 民主	bin tsu	100000
 民政	bin tsing
-民望	bin bong	100000
+民望	bin bong
 民情	bin tsing
 民系	bin he	100000
 民法	bin huat	100000
@@ -15299,7 +15299,7 @@ min_phrase_weight: 100
 進度	tsin too	100000
 進程		100000
 進駐	tsin tsu	100000
-這个	tsit e	100000
+這个	tsit e	99999
 這聲	tsit siaⁿ	100000
 這位	tsit ui	100000
 這搭	tsit tah	100000
@@ -15362,23 +15362,22 @@ min_phrase_weight: 100
 這碟	tsit tih	100000
 這盤	tsit puaⁿ	100000
 這𥐵	tsit phiat	100000
-這下	tsit e	100000
-這下子	tsit e tsi	100000
-這下子	tse tsi	100000
-這張	tsit tiuⁿ	100000
-這場	tsit tiuⁿ	100000
-這齣	tsit tshut	100000
+這下	tsit ha
+這下子	tsit ha tsi
+這張	tsit tiuⁿ
+這場	tsit tiuⁿ
+這齣	tsit tshut
 這世儂	tsit si lang	100000
 這蕊	tsit lui	100000
 這段	tsit tuaⁿ	100000
-這片	tsit phian	100000
+這片	tsit phian
 這間	tsit king	100000
 這型	tsit hing	100000
 這體	tsit the	100000
 這領	tsit nia	100000
 這身	tsit sin	100000
 職業	tsit giap	100000
-職場	tsit tiuⁿ	100000
+職場	tsit tiuⁿ
 職務	tsit bu	100000
 職工	tsit kang	100000
 職分	tsit hun	100000
@@ -15429,7 +15428,7 @@ min_phrase_weight: 100
 一千	tsit tshing	100000
 一萬	tsit ban	100000
 一億	tsit ik	100000
-一个	tsit e	100000
+一个	tsit e	100001
 一位	tsit ui	100000
 一跡	tsit jiah	100000
 一日	tsit jit	100000
@@ -15502,14 +15501,14 @@ min_phrase_weight: 100
 一盤	tsit puaⁿ	100000
 一𥐵	tsit phiat	100000
 一下	tsit e	100000
-一張	tsit tiuⁿ	100000
-一場	tsit tiuⁿ	100000
-一齣	tsit tshut	100000
+一張	tsit tiuⁿ
+一場	tsit tiuⁿ
+一齣	tsit tshut
 一份	tsit hun	100000
 一楝	tsit ling	100000
 一簇	tsit tshok	100000
 一蕊	tsit lui	100000
-一片	tsit pihan	100000
+一片	tsit phian
 一鉼	tsit phiaⁿ	100000
 一世儂	tsit si lang	100000
 一段	tsit tuaⁿ	100000
@@ -15648,29 +15647,29 @@ min_phrase_weight: 100
 人參	jin som	100000
 人數	jin soo	100000
 人體	jin the	100000
-人中	jin tiong	100000
+人中	jin tiong
 人氣	jin khi	100000
 人口		100000
 人格	jin keh	100000
 人權		100000
 人家	jin ke	100000
-人望	jin bong	100000
-人爲	jin ui	100000
-人事	jin su	100000
+人望	jin bong
+人爲	jin ui
+人事	jin su
 人情世事	jin tsing se su	100000
 人文	jin bun	100000
 人和	jin ho	100000
 人禍	jin ho	100000
 人禍	jin hoo	100000
-人羣	jin kun	100000
-人世	jin se	100000
-人世間	jin se kan	100000
+人羣	jin kun
+人世	jin se
+人世間	jin se kan
 人身	jin sin	100000
-人事局	jin su kiok	100000
-人士	jin su	100000
-人選	jin suan	100000
-人潮	jin tiau	100000
-人種	jin tsiong	100000
+人事局	jin su kiok
+人士	jin su
+人選	jin suan
+人潮	jin tiau
+人種	jin tsiong
 人質	jin tsit	100000
 人次	jin tshu	100000
 人工		100000
@@ -15680,7 +15679,7 @@ min_phrase_weight: 100
 仁慈	jin tsu	100000
 仁義	jin gi	100000
 仁厚	jin hoo	100000
-認爲	jin ui	100000
+認爲	jin ui
 認可	jin kho	100000
 認可	jin khoⁿ	100000
 認同	jin tong	100000
@@ -15689,7 +15688,7 @@ min_phrase_weight: 100
 認罪	jin tsue	100000
 認賺	jin taⁿ	100000
 認毋著	jin m tioh	100000
-認輸	jin su	100000
+認輸	jin su
 認真	jin tsin	100000
 認定	jin ting	100000
 認床	jin tshng	100000
@@ -15825,7 +15824,7 @@ min_phrase_weight: 100
 失去	sit khI	100000
 失路	sit loo	100000
 失敗	sit pai	100000
-失望	sit bong	100000
+失望	sit bong
 失業	sit giap	100000
 失手	sit tshiu	100000
 失志	sit tsi	100000
@@ -16670,7 +16669,7 @@ min_phrase_weight: 100
 銘心	bing sim	100000
 銘記	bing ki	100000
 名目	bing bok	100000
-名望	bing bong	100000
+名望	bing bong
 名文	bing bun	100000
 名節	bing tsiat	100000
 名義	bing gi	100000
@@ -16786,8 +16785,7 @@ min_phrase_weight: 100
 釘點	ting tiam	100000
 釘根	ting kern	100000
 德行	tik hing	100000
-德高望重	tik ko bong tiong	100000
-德高望重	tik koO bong tiong	100000
+德高望重	tik ko bong tiong
 德育	tik iok	100000
 竹仔	tik a	100000
 竹仔枝	tik a ki	100000
@@ -18022,7 +18020,7 @@ min_phrase_weight: 100
 威力	ui lik	100000
 威儀	ui gi	100000
 威嚴	ui giam	100000
-威望	ui bong	100000
+威望	ui bong
 威信	ui sin	100000
 威武	ui bu	100000
 威權		100000
@@ -20268,8 +20266,8 @@ min_phrase_weight: 100
 書房	tsI pang	100000
 書櫥	tsI tu	100000
 書店	tsI tiam	100000
-書癲	tsI tian	100000
-書童	tsI tong	100000
+書癲	tsI tian
+書童	tsI tong
 書童	sI tong	100000
 諸國	tsI kok	100000
 諸君	tsI kun	100000
@@ -20536,7 +20534,7 @@ min_phrase_weight: 100
 自重	tsu tiong	100000
 自得	tsu tit	100000
 自底	tsu tere	100000
-自動	tsu tong	100000
+自動	tsu tong
 自彈自唱	tsu tuaⁿ tsu tshiuⁿ	100000
 自謙	tsu khiam	100000
 自強	tsu kiong	100000
@@ -20684,7 +20682,7 @@ min_phrase_weight: 100
 事務	su bu	100000
 事業	su giap	100000
 事項	su hang	100000
-事在人爲	su tsai jin ui	100000
+事在人爲	su tsai jin ui
 事物	su but	100000
 事件	su kiaⁿ	100000
 事故	su koo	100000
@@ -22914,9 +22912,9 @@ min_phrase_weight: 100
 阻力	tsoo lik	100000
 助手	tsoo tshiu	100000
 助力	tsoo lik	100000
-助人爲樂	tsoo jin ui lok	100000
+助人爲樂	tsoo jin ui lok
 助動詞	tsoo tong su	100000
-助詞	tsoo su	100000
+助詞	tsoo su
 助教	tsoo kau	100000
 助產士	tsoo san su	100000
 助益	tsoo ik	100000
@@ -23688,8 +23686,8 @@ min_phrase_weight: 100
 無路用	bo loo ing	100000
 無擋用	bo tong ing	100000
 無擋頭	bo tong thau	100000
-無論	bo lun	100000
-無望	bo bang	100000
+無論	bo lun
+無望	bo bang
 無𡳞通捏	bo lan thang liap	100000
 無鬼通變	bo kui thang piⁿ	100000
 無相同	bo saⁿ tang	100000
@@ -24240,19 +24238,19 @@ min_phrase_weight: 100
 可惜	khoⁿ sioh	100000
 拷問	kho bun	100000
 拷問	khoⁿ bun	100000
-洘旱	kho uaⁿ	100000
-洘旱	kho huaⁿ	100000
-洘旱	khoo uaⁿ	100000
-洘流	kho lau	100000
+洘旱	kho uaⁿ
+洘旱	kho huaⁿ
+洘旱	khoo uaⁿ
+洘流	kho lau
 洘秫秫	kho tsut tsut	100000
 洘汔汔	kho kit kit	100000
 洘頓頓	kho tng tng	100000
 靠著	kho tioh	100000
-靠儂		100000
-靠枕		100000
-靠岸		100000
-靠勢		100000
-靠俗		100000
+靠儂
+靠枕
+靠岸
+靠勢	kho3 se3
+靠俗
 靠山	kho suaⁿ	100000
 靠山	khoO suaⁿ	100000
 靠前	kho tsing	100000
@@ -25953,7 +25951,7 @@ min_phrase_weight: 100
 塑造	sok tso	100000
 塑料袋仔	sok liau ter a	100000
 塑料紙	sok liau tsua	100000
-朔望	sok bong	100000
+朔望	sok bong
 倯倯	song song	100000
 倯壁壁	song piah piah	100000
 倯硩硩	song teh teh	100000
@@ -26784,7 +26782,7 @@ min_phrase_weight: 100
 浴室	iok sik	100000
 浴巾	iok kern	100000
 浴場	iok tiuⁿ	100000
-慾望	iok bong	100000
+慾望	iok bong
 慾情	iok tsing	100000
 慾骨	iok kut	100000
 慾念	iok liam	100000
@@ -27167,7 +27165,7 @@ min_phrase_weight: 100
 淑女	siok lI	100000
 夙志	siok tsi	100000
 夙夜	siok ia	100000
-夙望	siok bong	100000
+夙望	siok bong
 夙願	siok guan	100000
 松香	siong hiong	100000
 松膠	siong ka	100000
@@ -27969,7 +27967,7 @@ min_phrase_weight: 100
 主張	tsu tiuⁿ	100000
 主委	tsu ui	100000
 主角	tsu kak	100000
-主動	tsu tong	100000
+主動	tsu tong
 主辦	tsu pan	100000
 主辦人	tsu pan jin	100000
 主辦方	tsu pan hong	100000
@@ -31981,7 +31979,7 @@ min_phrase_weight: 100
 向東	ng tang	100000
 向西	ng sai	100000
 向後	ng au	100000
-向望	ng bang	100000
+向望	ng bang
 向前	ng tsing	100000
 幫貼	png thiap	100000
 幫補	png poo	100000
@@ -32442,7 +32440,6 @@ min_phrase_weight: 100
 ##補充詞
 補充詞
 補充字
-B站	bzam
 一下	it ha
 手機版
 電腦版
@@ -33023,7 +33020,7 @@ IT之家	it tsi ke
 土耳其	thoo ni ki	100000
 土耳其語	thoo ni ki gI	100000
 南非	lam hui	100000
-好望角	ho bong kak	100000
+好望角	ho bong kak
 澳大利亞	o tai li a	100000
 澳洲	o tsiu	100000
 悉尼	sik ni	100000
@@ -34027,3 +34024,4 @@ IT之家	it tsi ke
 腳踏實地	kiok4 tap8 sit8 tere7	
 腳踏實地	kioh4 tah8 sit8 tere7	
 腳踏實地	kioh4 tap8 sit8 tere7	
+望眼欲穿	bong7 gan2 iok8 tshuan1
