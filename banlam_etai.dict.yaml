@@ -13575,7 +13575,7 @@ min_phrase_weight: 100
 屍首	si siu	100000
 屍骨	si kut	100000
 施主	si tsu	100000
-施政	si tsing	100000
+施政	si tsing
 施法	si huat	100000
 施行	si hing	100000
 施捨	si sia	100000
@@ -13589,7 +13589,7 @@ min_phrase_weight: 100
 死物	si mngh	100000
 死物	si mih	100000
 死絕	si tsEh	100000
-死症	si tsing	100000
+死症	si tsing
 死冊	si tsheh	100000
 死手	si tshiu	100000
 死錢	si tsiⁿ	100000
@@ -13682,7 +13682,7 @@ min_phrase_weight: 100
 時節	si tsereh	100000
 時辰	si sin	100000
 時勢	si se	100000
-時鐘	si tsing	100000
+時鐘	si tsing
 時宜	si gi	100000
 時限	si han	100000
 時行	si kiaⁿ	100000
@@ -13957,7 +13957,7 @@ min_phrase_weight: 100
 年月	ni gerh	100000
 年限	ni han	100000
 年歲	ni her	100000
-年號	ni ho	100000
+年號	ni ho
 年份	ni hun	100000
 年景	ni king	100000
 年迫	ni pik	100000
@@ -20359,7 +20359,7 @@ min_phrase_weight: 100
 書刊	sI khan	100000
 書評	sI phing	100000
 書展	sI tian	100000
-抒情	sI tsing	100000
+抒情	sI tsing
 抒發	sI huat	100000
 紓解	sI kai	100000
 紓難	sI lan	100000
@@ -20610,7 +20610,7 @@ min_phrase_weight: 100
 思量	su niu	100000
 思維	su ui	100000
 斯文	su bun	100000
-私情	su tsing	100000
+私情	su tsing
 私娼	su tshiong	100000
 私佔	su tsiam	100000
 私業	su giap	100000
