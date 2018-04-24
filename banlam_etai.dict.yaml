@@ -25,7 +25,6 @@ min_phrase_weight: 100
 巴	pa1	
 笆	pa1	
 芭	pa1	
-吧	pa1	
 飽	pa2	
 把	pa2	
 霸	pa3	
@@ -6036,7 +6035,7 @@ min_phrase_weight: 100
 消滅	siau biat	100000
 消災	siau tsai	100000
 消贓	siau tsng	100000
-消腫	siau tsing	100000
+消腫	siau tsing
 消罪	siau tsue	100000
 消化	siau hua	100000
 消費	siau hui	100000
@@ -8169,6 +8168,7 @@ min_phrase_weight: 100
 殃	iong1	
 泱	iong1	
 鞅	iong1	
+臃	iong1	
 養	iong2	
 癢	iong2	
 氧	iong2	
@@ -14503,8 +14503,8 @@ min_phrase_weight: 100
 心適	sim sik	100000
 心性	sim sing	100000
 心聲	sim siaⁿ	100000
-心思	sim su	100000
-心神	sim sin	100000
+心思	sim su
+心神	sim sin
 心酸	sim sng	100000
 心頭	sim thau	100000
 心腸	sim tng	100000
@@ -14512,7 +14512,7 @@ min_phrase_weight: 100
 心行	sim hing	100000
 心狂火著	sim kong her toh	100000
 心肝仔	sim kuaⁿ a	100000
-心事	sim su	100000
+心事	sim su
 心境	sim king	100000
 心胸	sim hing	100000
 心力	sim lik	100000
@@ -23255,6 +23255,7 @@ min_phrase_weight: 100
 裸	lo2	
 落	loh4	
 羅	lo5	
+蘿	lo5	
 勞	lo5	
 勞	loO5	
 牢	lo5	
@@ -24751,6 +24752,7 @@ min_phrase_weight: 100
 擴	khok4	
 酷	khok4	
 硞	khok4	
+梏	khok4	
 觳	khok4	
 涸	khok4	
 廓	khok4	
@@ -25651,7 +25653,7 @@ min_phrase_weight: 100
 風聲謗影	hong siaⁿ pong iaⁿ	100000
 風月	hong guat	100000
 風化	hong hua	100000
-風光	hong kong	100000
+風光	hong kong
 風琴	hong khim	100000
 風波	hong pho	100000
 風韻	hong un	100000
@@ -25703,8 +25705,8 @@ min_phrase_weight: 100
 荒郊野外	hong kau ia gua	100000
 轟動	hong tong	100000
 轟炸	hong tsa	100000
-慌狂	hong kong	100000
-慌慌狂狂	hong hong kong kong	100000
+慌狂	hong kong
+慌慌狂狂	hong hong kong kong
 酆都	hong too	100000
 妨礙	hong gai	100000
 妨害	hong hai	100000
@@ -32180,6 +32182,11 @@ min_phrase_weight: 100
 桑材	sng tsai	100000
 桑樹	sng tshiu	100000
 ##補充字
+鍶	su1
+廝	su1
+嘶	su1
+泗	su3
+澌	su1
 燼	tsin6
 了	liauh0
 滃	ong2
@@ -32438,6 +32445,9 @@ min_phrase_weight: 100
 綫	suaⁿ3
 綫	sian3
 ##補充詞
+武俑
+兵俑
+都尉	too ut
 補充詞
 補充字
 一下	it ha
