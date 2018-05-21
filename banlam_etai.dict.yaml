@@ -1,6 +1,6 @@
 ---
 name: banlam_etai		
-version: "2018.04.16.2300"		
+version: "2018.05.02"		
 sort: by_weight		
 use_preset_vocabulary: true		
 max_phrase_length: 7		
@@ -5459,7 +5459,7 @@ min_phrase_weight: 100
 寫賺	sia taⁿ	100000
 寫法	sia huat	100000
 寫字桌	sia ji toh	100000
-寫生	sia sing	100000
+寫生	sia sing
 寫照	sia tsiau	100000
 寫做	sia tsue	100000
 寫做	sia tso	100000
@@ -9801,6 +9801,7 @@ min_phrase_weight: 100
 卵	luan2	
 暖	luan2	
 戀	luan5	
+鑾	luan5
 鸞	luan5	
 巒	luan5	
 亂	luan7	
@@ -12938,9 +12939,9 @@ min_phrase_weight: 100
 啼啼哭哭	thi thi khau khau	100000
 雉雞	thi kere	100000
 理財	li tsai	100000
-理性	li sing	100000
+理性	li sing
 理學	li hak	100000
-理由	li iu	100000
+理由	li iu
 理解	li kai	100000
 理論	li lun	100000
 理事	li su	100000
@@ -17395,8 +17396,8 @@ min_phrase_weight: 100
 證交所	tsing kau soo	100000
 正義	tsing gi
 正法	tsing huat	100000
-正經	tsing king	100000
-正經代	tsing king tai	100000
+正經	tsing king
+正經代	tsing king tai
 正氣	tsing khi	100000
 正果	tsing ko	100000
 正果	tsing koO	100000
@@ -17474,8 +17475,8 @@ min_phrase_weight: 100
 情意	tsing i
 情慾	tsing iok	100000
 情有可原		100000
-情景	tsing king	100000
-情境	tsing king	100000
+情景	tsing king
+情境	tsing king
 情歌	tsing kua	100000
 情理	tsing li	100000
 情批	tsing phere	100000
@@ -17492,7 +17493,7 @@ min_phrase_weight: 100
 情結	tsing kat	100000
 情操	tsing tsho	100000
 情話	tsing ue	100000
-曾經	tsing king	100000
+曾經	tsing king
 從頭	tsing thau	100000
 從細漢	tsing sere han	100000
 從到今	tsing kau taⁿ	100000
@@ -18504,7 +18505,7 @@ min_phrase_weight: 100
 雷聲	lui siaⁿ	100000
 雷電	lui tian	100000
 雷雨	lui hoo	100000
-雷雨	lui u	100000
+雷雨	lui u
 雷陣雨	lui tsun hoo	100000
 雷射	lui sia	100000
 雷達	lui tat	100000
@@ -20049,14 +20050,14 @@ min_phrase_weight: 100
 儲君	thI kun	100000
 汝好	lI ho	100000
 汝做汝		100000
-女性	lI sing	100000
-女性	lu sing	100000
-女生	lI sing	100000
-女生	lu sing	100000
-女兮	lI e	100000
-女兮	lu e	100000
-女友	lI iu	100000
-女友	lu iu	100000
+女性	lI sing
+女性	lu sing
+女生	lI sing
+女生	lu sing
+女兮	lI e
+女兮	lu e
+女友	lI iu
+女友	lu iu
 女朋友	lI ping iu	100000
 女朋友	lu ping iu	100000
 女巫	lI bu	100000
@@ -20069,7 +20070,7 @@ min_phrase_weight: 100
 女裝	lI tsong	100000
 女裝	lu tsong	100000
 女犯	lI huan	100000
-女優	lI iu	100000
+女優	lI iu
 女流之輩	lI liu tsi pue	100000
 女媧	lI kua	100000
 女媧娘娘	lI kua niu niu	100000
@@ -20101,7 +20102,7 @@ min_phrase_weight: 100
 旅外	lI gua	100000
 旅社	lI sia	100000
 旅客	lI kheh	100000
-旅遊	lI iu	100000
+旅遊	lI iu
 旅途	lI too	100000
 驢仔	lI a	100000
 呂洞賓	lI6 tong pin	100000
@@ -22638,13 +22639,13 @@ min_phrase_weight: 100
 股利	koo li	100000
 股長	koo tiuⁿ	100000
 股本		100000
-股價	koo ke	100000
+股價	koo ke
 股權		100000
 股市	koo tshi	100000
-估計	koo ke	100000
+估計	koo ke
 估算	koo sng	100000
-估價	koo ke	100000
-蠱脹	koo tiuⁿ	100000
+估價	koo ke
+蠱脹	koo tiuⁿ
 蠱病	koo peⁿ
 故意	koo i	100000
 故鄉	koo hiong	100000
@@ -22658,7 +22659,7 @@ min_phrase_weight: 100
 故障	koo tsiong	100000
 故宮	koo kiong	100000
 顧問	koo bun	100000
-顧家	koo ke	100000
+顧家	koo ke
 顧客	koo kheh	100000
 顧儂怨	koo lang uan	100000
 顧門	koo mng	100000
@@ -24095,8 +24096,8 @@ min_phrase_weight: 100
 高鐵	koO thih	100000
 高等	ko ting	100000
 高等	koO ting	100000
-高架	ko ke	100000
-高架	koO ke	100000
+高架	ko ke
+高架	koO ke
 高中	ko tiong	100000
 高中	koO tiong	100000
 高中生	ko tiong sing	100000
@@ -27913,7 +27914,7 @@ min_phrase_weight: 100
 珠仔	tsu a	100000
 珠仔鎖	tsu a so	100000
 珠捾	tsu kuaⁿ	100000
-珠花	tsu hue	100000
+珠花	tsu hue
 珠簾	tsu li	100000
 珠蚵	tsu o	100000
 珠仔蚵	tsu a o	100000
@@ -27990,7 +27991,7 @@ min_phrase_weight: 100
 主播	tsu poo	100000
 主機	tsu ki	100000
 注意	tsu i	100000
-注音	tsu im
+注音	tsu im	100000
 注定	tsu tiaⁿ	100000
 注定	tsu ting	100000
 注目	tsu bak	100000
@@ -28162,7 +28163,7 @@ min_phrase_weight: 100
 寓言	gu gian	100000
 寓所	gu soo	100000
 寓意	gu i	100000
-聚會	tsu hue	100000
+聚會	tsu hue
 聚餐	tsu tshan	100000
 聚集	tsu tsip	100000
 聚財	tsu tsai	100000
@@ -29523,7 +29524,7 @@ min_phrase_weight: 100
 尊見	tsun kian	100000
 尊貴	tsun kui	100000
 尊名	tsun mia	100000
-尊卑	tsun pi	100000
+尊卑	tsun pi
 尊長	tsun tiong	100000
 尊師	tsun su	100000
 尊存	tsun tshun	100000
@@ -29540,7 +29541,7 @@ min_phrase_weight: 100
 準準	tsun tsun	100000
 準據	tsun kI	100000
 準若	tsun na	100000
-準備	tsun pi	100000
+準備	tsun pi
 準憑	tsun pin	100000
 準數	tsun siau	100000
 準拄好	tsun tu ho	100000
@@ -31038,7 +31039,7 @@ min_phrase_weight: 100
 修譜	siu phoo	100000
 修平	siu peⁿ	100000
 修補	siu poo	100000
-修飾	siu sik	100000
+修飾	siu sik
 修善	siu sian	100000
 修身	siu sin	100000
 修道		100000
@@ -31062,9 +31063,9 @@ min_phrase_weight: 100
 首級	siu khip	100000
 首級	siu kip	100000
 首烏	siu oo	100000
-首飾	siu sik	100000
-首席	siu sik	100000
-首席	siu sit	100000
+首飾	siu sik
+首席	siu sik
+首席	siu sit
 首相	siu siong	100000
 首先	siu sing	100000
 首先	siu sian	100000
@@ -31147,7 +31148,7 @@ min_phrase_weight: 100
 受屈	siu khut	100000
 受理	siu li	100000
 受累	siu lui	100000
-受室	siu sik	100000
+受室	siu sik
 受恿	siu sing	100000
 受傷	siu siong	100000
 受敵	siu tik	100000
@@ -31726,10 +31727,10 @@ min_phrase_weight: 100
 相公娘	siuⁿ kang niu	100000
 相准	siuⁿ tsun	100000
 相虎	siuⁿ hoo	100000
-相相	siuⁿ siuⁿ	100000
+相相	siuⁿ siuⁿ
 瘍黐黐	siuⁿ thi thi	100000
 瘍拖拖	siuⁿ thua thua	100000
-瘍瘍	siuⁿ siuⁿ	100000
+瘍瘍	siuⁿ siuⁿ
 想來想去	siuⁿ lai siuⁿ khI	100000
 想說	siuⁿ serh	100000
 想講	siuⁿ kong	100000
