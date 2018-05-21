@@ -636,7 +636,7 @@ min_phrase_weight: 100
 哈呛	hat tshiuⁿ	100000
 哈呛	ha tshiuⁿ	100000
 哈呛	ah tshiuⁿ	100000
-瑕疵	ha tshu	100000
+瑕疵	ha tshu
 下元	ha guan	100000
 下賤	ha tsian	100000
 下作	ha tsoh	100000
@@ -1817,7 +1817,7 @@ min_phrase_weight: 100
 嘔血	au huih	100000
 嘔心血	au sim hiat	100000
 漚臭	au tshau	100000
-漚面	au bin	100000
+漚面	au bin
 漚屎面	au sai bin	100000
 漚面漚孔	au bin au khang	100000
 漚頭漚面	au thau au bin	100000
@@ -1829,7 +1829,7 @@ min_phrase_weight: 100
 喉底	au tere	100000
 喉底聲	au tere siaⁿ	100000
 後壁	au piah	100000
-後面	au bin	100000
+後面	au bin
 後頭	au thau	100000
 後頭厝	au thau tshu	100000
 後尾	au ber	100000
@@ -4745,7 +4745,7 @@ min_phrase_weight: 100
 工匠	kang tshiuⁿ	100000
 工錢	kang tsiⁿ	100000
 工資	kang tsu	100000
-工價	kang ke	100000
+工價	kang ke
 工藝	kang ge	100000
 工夫	kang hu	100000
 工會	kang hue	100000
@@ -4768,7 +4768,7 @@ min_phrase_weight: 100
 功夫	kang hu	100000
 講座	kang tso	100000
 講解	kang kai	100000
-講價	kang ke	100000
+講價	kang ke
 講經	kang king	100000
 講空	kang khang	100000
 講究	kang kiu	100000
@@ -4791,7 +4791,7 @@ min_phrase_weight: 100
 港區	kang khu	100000
 港灣	kang uan	100000
 港都	kang too	100000
-降價	kang ke	100000
+降價	kang ke
 降級	kang khip	100000
 降級	kang kip	100000
 降落	kang loh	100000
@@ -5560,7 +5560,8 @@ min_phrase_weight: 100
 凋	tiau1	
 貂	tiau1	
 佻	tiau2	
-吊	tiau3	
+吊	tiau3
+屌	tiau3
 釣	tiau3	
 召	tiau3	
 窵	tiau3	
@@ -16515,7 +16516,7 @@ min_phrase_weight: 100
 用盡心神		100000
 用地	ing tere	100000
 用地	iong tere	100000
-用意	iong i	100000
+用意	iong i
 詠嘆	ing than	100000
 詠嘆調	ing than tiau	100000
 譯者	ik tsia	100000
@@ -26751,7 +26752,7 @@ min_phrase_weight: 100
 勇猛	iong bing	100000
 湧泉	iong tsuaⁿ	100000
 踴躍	iong iok	100000
-容易	iong i	100000
+容易	iong i
 容忍	iong jim	100000
 容納	iong lap	100000
 容量	iong liong	100000
@@ -32864,7 +32865,7 @@ IT之家	it tsi ke
 中華人民共和國	tiong hua jin bin kiong ho kok	100000
 ##	都城	
 安邑	an ip	100000
-陽翟	iong tik	100000
+陽翟	iong tik
 鎬京	ho kiaⁿ	100000
 洛邑	lok ip	100000
 咸陽	ham iong	100000
