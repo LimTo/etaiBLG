@@ -1,10 +1,13 @@
 ---
 name: banlam_etai		
-version: "2018.05.02"		
+version: "2018.05.30"		
 sort: by_weight		
 use_preset_vocabulary: true		
 max_phrase_length: 7		
 min_phrase_weight: 100		
+import_tables:
+  - LOL
+#LOL英雄聯盟詞彙
 ...
 ##	a/ah	
 啊	a0	
@@ -2719,6 +2722,7 @@ min_phrase_weight: 100
 哼	haiⁿ1	
 嗐	haiⁿh4	
 指	tsaiⁿ2	
+崽	tsaiⁿ2	
 怎	tsaiⁿ2	
 毋愛講	m ai kong	100000
 毋愛按呢	m ai an ne	100000
@@ -3868,7 +3872,7 @@ min_phrase_weight: 100
 單曲	tan khik	100000
 單曲	tuaⁿ khik	100000
 單跤單手	tan kha tan tshiu	100000
-單語	tan gI	100000
+單語	tan gI
 釘仔	tan a	100000
 釘仔	ting a	100000
 釘仔鉗		100000
@@ -4544,7 +4548,7 @@ min_phrase_weight: 100
 網費	bang hui	100000
 網線	bang suaⁿ	100000
 網頁	bang iah	100000
-網友	bang iu	100000
+網友	bang iu
 網站	bang tsam	100000
 網址	bang tsi	100000
 網球	bang kiu	100000
@@ -4555,7 +4559,7 @@ min_phrase_weight: 100
 網費	bong hui	100000
 網線	bong suaⁿ	100000
 網頁	bong iah	100000
-網友	bong iu	100000
+網友	bong iu
 網站	bong tsam	100000
 網址	bong tsi	100000
 網球	bong kiu	100000
@@ -5020,6 +5024,7 @@ min_phrase_weight: 100
 摘	tiah4	
 糴	tiah8	
 拆	thiah4	
+拆	thik4
 掠	liah8	
 寄	kia3	
 揭	kiah4	
@@ -5117,7 +5122,7 @@ min_phrase_weight: 100
 野蠻	ia ban	100000
 野味	ia bi	100000
 野球	ia kiu	100000
-野花	ia hue	100000
+野花	ia hue
 野餐	ia tshan	100000
 野好	ia ho	100000
 野歹		100000
@@ -6154,6 +6159,8 @@ min_phrase_weight: 100
 且	tshiaⁿ2	
 倩	tshiaⁿ3	
 晟	tshiaⁿ5	
+晟	sing5
+晟	sing7
 成	tshiaⁿ5	
 聲	siaⁿ1	
 啥	siaⁿ2	
@@ -8808,13 +8815,11 @@ min_phrase_weight: 100
 捋	luah8	
 歌	kua1	
 柯	kua1	
-瓜	kua1	
-過	kua1	
+瓜	kua1		
 呱	kua1	
 媧	kua1	
 牁	kua1	
-寡	kua2	
-過	kua3	
+寡	kua2		
 蓋	kua3	
 掛	kua3	
 卦	kua3	
@@ -9895,6 +9900,7 @@ min_phrase_weight: 100
 帆	huan5	
 樊	huan5	
 桓	huan5	
+垣	huan5
 寰	huan5	
 圜	huan5	
 鬟	huan5	
@@ -9909,6 +9915,7 @@ min_phrase_weight: 100
 乏	huat8	
 活	huat8	
 伐	huat8	
+筏	huat8
 閥	huat8	
 專	tsuan1	
 磚	tsuan1	
@@ -10295,7 +10302,7 @@ min_phrase_weight: 100
 原則	guan tsak	100000
 原罪	guan tsue	100000
 原形	guan hing	100000
-原意	guan i	100000
+原意	guan i
 原因	guan in	100000
 原封不動	guan hong put tong	100000
 原由	guan iu	100000
@@ -10328,7 +10335,7 @@ min_phrase_weight: 100
 源泉	guan tsuaⁿ	100000
 頑固	guan koo	100000
 頑童	guan tong	100000
-願意	guan i	100000
+願意	guan i
 願望	guan bong
 月老	guat noo	100000
 月夜	guat ia	100000
@@ -10500,7 +10507,7 @@ min_phrase_weight: 100
 凡若	huan na	100000
 範圍	huan ui	100000
 範例	huan le	100000
-犯法	huan huat	100000
+犯法	huan huat
 犯罪	huan tsue	100000
 犯規	huan kui	100000
 犯儂	huan lang	100000
@@ -12005,7 +12012,7 @@ min_phrase_weight: 100
 會頭	hue thau	100000
 會堂	hue tng	100000
 會議	hue gi	100000
-會同	hue tong	100000
+會同	hue tong
 會談	hue tam	100000
 匯款	hue khuaⁿ	100000
 匯款單	hue khuaⁿ tuaⁿ	100000
@@ -12994,7 +13001,7 @@ min_phrase_weight: 100
 蒞臨	li lim	100000
 裂開	lih khui	100000
 機密	ki bit	100000
-機會	ki hue	100000
+機會	ki hue
 機械	ki hai	100000
 機器	ki khi	100000
 機器桶	ki khi thang	100000
@@ -13038,7 +13045,7 @@ min_phrase_weight: 100
 基層	ki tsan	100000
 吱吱	ki ki	100000
 吱吱叫	ki ki kio	100000
-技術	ki sut	100000
+技術	ki sut
 技能	ki ling	100000
 技工	ki kang	100000
 技師	ki su	100000
@@ -13097,7 +13104,7 @@ min_phrase_weight: 100
 期待	ki thai	100000
 期望	ki bong
 期刊	ki khan	100000
-期貨	ki her	100000
+期貨	ki her
 奇怪	ki kuai	100000
 奇奇怪怪	ki ki kuai kuai	100000
 奇巧	ki kha	100000
@@ -13154,7 +13161,7 @@ min_phrase_weight: 100
 起風	khi huang	100000
 起風	khi hong	100000
 起火	khi her	100000
-起因	khi in	100000
+起因	khi in
 起家	khi ke	100000
 起跤動手	khi kha tang tshiu	100000
 起頭	khi thau	100000
@@ -13249,7 +13256,7 @@ min_phrase_weight: 100
 氣怫怫	khi phut phut	100000
 氣怫怫	khi put put	100000
 氣象	khi siong	100000
-氣溫	khi un	100000
+氣溫	khi un
 氣數	khi soo	100000
 氣身惱命	khi sin loo mia	100000
 氣功	khi kong	100000
@@ -13257,7 +13264,7 @@ min_phrase_weight: 100
 氣流	khi liu	100000
 氣勢	khi se	100000
 氣體	khi the	100000
-氣運	khi un	100000
+氣運	khi un
 氣派	khi phai	100000
 缺角	khih kak	100000
 缺喙	khih tshui	100000
@@ -13384,7 +13391,7 @@ min_phrase_weight: 100
 支票	tsi phio	100000
 支援	tsi uan	100000
 支付	tsi hu	100000
-支應	tsi ing	100000
+支應	tsi ing
 支配	tsi phue	100000
 脂肪	tsi hong	100000
 膣屄	tsi bai	100000
@@ -13431,8 +13438,8 @@ min_phrase_weight: 100
 指認	tsi jin	100000
 指令	tsi ling	100000
 指數	tsi soo	100000
-指責	tsi tsik	100000
-指責	tsi tsit	100000
+指責	tsi tsik
+指責	tsi tsit
 指腹爲婚	tsi hok ui hun	100000
 旨意	tsi i	100000
 咫尺	tsi tshik	100000
@@ -16083,6 +16090,7 @@ min_phrase_weight: 100
 重	ting5	
 庭	ting5	
 橙	ting5	
+懲	ting5
 藤	ting5	
 亭	ting5	
 廷	ting5	
@@ -16282,7 +16290,8 @@ min_phrase_weight: 100
 肉	hik8	
 或	hik8	
 惑	hik8	
-域	hik8	
+域	hik8
+閾	hik8
 獲	hik8	
 核	hik8	
 劾	hik8	
@@ -17387,7 +17396,7 @@ min_phrase_weight: 100
 種珠	tsing tsu	100000
 證據	tsing kI	100000
 證明	tsing bing	100000
-證人	tsing jin	100000
+證人	tsing jin
 證書	tsing sI	100000
 證券	tsing kuan	100000
 證件	tsing kiaⁿ	100000
@@ -17464,7 +17473,7 @@ min_phrase_weight: 100
 迹象	tsik siong	100000
 情況	tsing hong	100000
 情勢	tsing se	100000
-情人	tsing jin	100000
+情人	tsing jin
 情郎	tsing long	100000
 情侶	tsing lI	100000
 情伴	tsing phuaⁿ	100000
@@ -20137,7 +20146,7 @@ min_phrase_weight: 100
 矩形	kI hing	100000
 鋸仔	kI a	100000
 鋸柴	kI tsha	100000
-鋸屑	kI sut	100000
+鋸屑	kI sut
 鋸鑢仔	kI lere a	100000
 鋸齒	kI khi	100000
 據在	kI tsai	100000
@@ -20211,7 +20220,7 @@ min_phrase_weight: 100
 魚仔	hI a	100000
 魚頭	hI thau	100000
 魚骨	hI kut	100000
-魚仁	hI jin	100000
+魚仁	hI jin
 魚目睭	hI bak tsiu	100000
 魚尾	hI ber	100000
 魚肉	hI bah	100000
@@ -20343,8 +20352,8 @@ min_phrase_weight: 100
 如是我聞	jI si ngoo bun	100000
 如夫人	jI hu jin	100000
 如同	jI tong	100000
-書籍	sI tsik	100000
-書函	sI ham	100000
+書籍	sI tsik
+書函	sI ham
 書香門第	sI hiong bun te	100000
 書法	sI huat	100000
 書法家	sI huat ka	100000
@@ -20497,7 +20506,7 @@ min_phrase_weight: 100
 自作孽	tsu tsok giat	100000
 自尊	tsu tsun	100000
 自主	tsu tsu	100000
-自縊	tsu e	100000
+自縊	tsu e
 自傳	tsu tuan	100000
 自誤		100000
 自負	tsu hu	100000
@@ -20552,7 +20561,7 @@ min_phrase_weight: 100
 自助	tsu tsoo	100000
 自助餐	tsu tsoo tshan	100000
 自稱	tsu tshing	100000
-自責	tsu tsik	100000
+自責	tsu tsik
 自責	tsu tserk	100000
 自從	tsu tsiong	100000
 自治	tsu ti	100000
@@ -20585,7 +20594,7 @@ min_phrase_weight: 100
 師母	su boo	100000
 師母	su bio	100000
 師祖	su tsoo	100000
-師叔	su tsik	100000
+師叔	su tsik
 師公	su kong	100000
 師爺	su ia	100000
 師範	su huan	100000
@@ -20646,7 +20655,7 @@ min_phrase_weight: 100
 四方	su hong	100000
 四方八達	su hong pat tat	100000
 四分五裂	su hun ngoo liat	100000
-四維	su i	100000
+四維	su i
 四維	su ui	100000
 四肢	su ki	100000
 四季	su kui	100000
@@ -20655,7 +20664,7 @@ min_phrase_weight: 100
 四色牌	su sik pai	100000
 四常	su siong	100000
 四神湯	su sin thng	100000
-肆意	su i	100000
+肆意	su i
 駟馬難追	su ma lan tui	100000
 使命	su bing	100000
 使命感	su bing kam	100000
@@ -20695,7 +20704,7 @@ min_phrase_weight: 100
 事主	su tsu	100000
 事宜	su gi	100000
 事先	su sian	100000
-事蹟	su tsik	100000
+事蹟	su tsik
 ##	er/erh(设为E/Eh是为解决腔调差异)	
 倭	E1	
 呃	Eh4	
@@ -22585,7 +22594,7 @@ min_phrase_weight: 100
 姑嫂	koo so	100000
 姑息		100000
 姑婆	koo po	100000
-姑姨	koo i	100000
+姑姨	koo i
 姑表	koo piau	100000
 姑情	koo tsiaⁿ	100000
 辜負	koo hu	100000
@@ -22599,7 +22608,7 @@ min_phrase_weight: 100
 古物	koo but	100000
 古早	koo tsa	100000
 古代	koo tai	100000
-古意	koo i	100000
+古意	koo i
 古蹟	koo tsik	100000
 古冊	koo tsheh	100000
 古書	koo tsI	100000
@@ -22648,7 +22657,7 @@ min_phrase_weight: 100
 估價	koo ke
 蠱脹	koo tiuⁿ
 蠱病	koo peⁿ
-故意	koo i	100000
+故意	koo i
 故鄉	koo hiong	100000
 故事	koo su	100000
 故友	koo iu	100000
@@ -25335,8 +25344,8 @@ min_phrase_weight: 100
 公安	kong an	100000
 公安局	kong an kik	100000
 公安局	kong an kiok	100000
-公墓	kong boo	100000
-公墓	kong bong	100000
+公墓	kong boo
+公墓	kong bong
 公務	kong bu	100000
 公務員	kong bu uan	100000
 公文	kong bun	100000
@@ -26423,7 +26432,7 @@ min_phrase_weight: 100
 燒靜	sio tsiⁿ	100000
 燒酒螺	sio tsiu lE	100000
 燒薰	sio hun	100000
-小弟	sio ti	100000
+小弟	sio ti
 小妹	sio ber	100000
 小妹	sio mue	100000
 小眠	sio bin	100000
@@ -27481,8 +27490,8 @@ min_phrase_weight: 100
 葡萄乾	phu to kuaⁿ	100000
 母錢		100000
 母舅		100000
-母仔		100000
-母仔囝		100000
+母仔	bu a	100000
+母仔囝	bu a kiaⁿ	100000
 母親		100000
 母兮		100000
 母校		100000
@@ -27800,7 +27809,7 @@ min_phrase_weight: 100
 牛杙	gu khit	100000
 牛黃	gu hong	100000
 牛頭獄卒	gu thau giok tsut	100000
-夫人	hu jin	100000
+夫人	hu jin
 夫妻	hu tshe	100000
 夫婦	hu hu	100000
 夫人媽	hu jin ma	100000
@@ -27889,7 +27898,7 @@ min_phrase_weight: 100
 父母	hu bio	100000
 父子	hu tsu	100000
 父兄	hu hing	100000
-婦人	hu jin	100000
+婦人	hu jin
 婦人儂	hu jin lang	100000
 婦女	hu lI	100000
 婦科	hu kho	100000
@@ -29305,7 +29314,7 @@ min_phrase_weight: 100
 婚書	hun sI	100000
 婚書禮帖	hun sI le thiap	100000
 婚宴	hun ian	100000
-婚配	hun phue	100000
+婚配	hun phue
 昏迷	hun be	100000
 昏夜	hun ia	100000
 昏君	hun kun	100000
@@ -29470,7 +29479,7 @@ min_phrase_weight: 100
 分秧	hun ng	100000
 分辦	hun pan	100000
 分派	hun phai	100000
-分配	hun phue	100000
+分配	hun phue
 分辨	hun pian	100000
 分別	hun piat	100000
 分撥	hun puah	100000
@@ -30168,7 +30177,7 @@ min_phrase_weight: 100
 憂鬱	iu ut	100000
 幽幽	iu iu
 幽靈	iu ling	100000
-幽雅	iu nga	100000
+幽雅	iu nga
 悠久	iu kiu	100000
 悠哉	iu tsai	100000
 悠悠	iu iu
@@ -30192,7 +30201,7 @@ min_phrase_weight: 100
 有孕	iu in	100000
 有勇無謀	iu iong bu boo	100000
 有愧	iu khui	100000
-有機	iu2 ki1	100000
+有機	iu2 ki1
 有機食品	iu ki sit phin	100000
 有期徒刑	iu ki too hing	100000
 有機物	iu ki but	100000
@@ -30262,7 +30271,7 @@ min_phrase_weight: 100
 優待	iu thai	100000
 優秀	iu siu	100000
 優良	iu liong	100000
-優雅	iu nga	100000
+優雅	iu nga
 優勢	iu se	100000
 優異	iu i	100000
 優越	iu uat	100000
@@ -30274,6 +30283,9 @@ min_phrase_weight: 100
 油門	iu mng	100000
 油毛氈	iu moo tsian	100000
 油炸鬼	iu tsah kui	100000
+油炸鬼	iu tsiah kui
+油炸粿	iu tsah kue
+油炸粿	iu tsiah kue
 油味	iu bi	100000
 油面	iu bin	100000
 油炸	iu tsah	100000
@@ -32185,6 +32197,9 @@ min_phrase_weight: 100
 桑材	sng tsai	100000
 桑樹	sng tshiu	100000
 ##補充字
+牴	ti2
+翟	tik8
+濯	tsok8
 鍶	su1
 廝	su1
 嘶	su1
@@ -32448,6 +32463,11 @@ min_phrase_weight: 100
 綫	suaⁿ3
 綫	sian3
 ##補充詞
+南蠻北狄東夷西戎
+北狄
+漢典
+燒豬
+坐標
 網易雲
 網易雲音樂
 武俑
@@ -34039,3 +34059,4 @@ IT之家	it tsi ke
 腳踏實地	kioh4 tah8 sit8 tere7	
 腳踏實地	kioh4 tap8 sit8 tere7	
 望眼欲穿	bong7 gan2 iok8 tshuan1
+欺師滅祖
